@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-aiosmtpd = "^1.4.5"
+aiosmtpd = "^1.4.6"
 
 
 [build-system]
